@@ -1,6 +1,4 @@
-Here's a `README.md` file with clear instructions on how to set up and run the Streamlit application on any platform. It also includes details on where to place files for compatibility.  
 
-### **README.md**
 ```md
 # Wind Turbine Power Prediction
 
@@ -59,15 +57,12 @@ streamlit run app.py
 - Visualizes data trends using histograms and scatter plots.
 
 ## **Reference**
-A Jupyter Notebook (`notebook.ipynb`) is included for reference, showcasing data preprocessing, model training, and evaluation.
+The Jupyter Notebook (`notebook.ipynb`) is included for reference, showcasing data preprocessing, model training, and evaluation.
 
 ---
 
 This setup ensures that the application runs smoothly on any platform. Let me know if you need modifications! 🚀
 ```
-
-I will also generate the reference Jupyter Notebook (`notebook.ipynb`) now.
-
 The `notebook.ipynb` file has been created, which includes dataset loading, model training, evaluation, and visualization.
 
 Now, here is the `requirements.txt` file:
